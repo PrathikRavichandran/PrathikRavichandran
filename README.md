@@ -34,11 +34,11 @@ class PrathikRavichandran:
 ## ⚡ Agent Frameworks & Orchestration
 
 <p align="left">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=00d4ff" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=00d4ff" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=00d4ff" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=00d4ff" />
   <img src="https://img.shields.io/badge/CrewAI-0d0221?style=for-the-badge&logoColor=00d4ff&label=🤝&labelColor=0d0221&color=00d4ff" />
   <img src="https://img.shields.io/badge/AutoGen-0d0221?style=for-the-badge&color=7b2fff&logoColor=white&label=AutoGen" />
-  <img src="https://img.shields.io/badge/Pydantic_AI-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic_AI-E92063?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI_SDK-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Semantic_Kernel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white" />
@@ -102,7 +102,7 @@ class PrathikRavichandran:
   <img src="https://img.shields.io/badge/Google_Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=00d4ff" />
+  <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=00d4ff" />
   <img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white" />
 </p>
 
@@ -141,7 +141,7 @@ class PrathikRavichandran:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PrathikRavichandran&show_icons=true&theme=tokyonight&bg_color=0d0221&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&border_color=00d4ff&hide_border=false&rank_icon=github" width="48%" />
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PrathikRavichandran&theme=tokyonight&background=0d0221&ring=00d4ff&fire=7b2fff&currStreakLabel=00d4ff&sideLabels=00d4ff&border=00d4ff" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=PrathikRavichandran&theme=tokyonight&background=0d0221&ring=00d4ff&fire=7b2fff&currStreakLabel=00d4ff&sideLabels=00d4ff&border=00d4ff" width="48%" />
 </p>
 
 <p align="center">
