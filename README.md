@@ -139,21 +139,37 @@ class PrathikRavichandran:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrathikRavichandran&show_icons=true&theme=tokyonight&bg_color=0d0221&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&border_color=00d4ff&hide_border=false&rank_icon=github" width="48%" />
-  &nbsp;
-  <img src="https://streak-stats.demolab.com?user=PrathikRavichandran&theme=tokyonight&background=0d0221&ring=00d4ff&fire=7b2fff&currStreakLabel=00d4ff&sideLabels=00d4ff&border=00d4ff" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=PrathikRavichandran&theme=tokyonight&background=0d0221&ring=00d4ff&fire=7b2fff&currStreakLabel=00d4ff&sideLabels=00d4ff&border=00d4ff" width="60%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathikRavichandran&layout=compact&theme=tokyonight&bg_color=0d0221&title_color=00d4ff&text_color=ffffff&border_color=00d4ff&langs_count=8" width="48%" />
+  <img src="https://img.shields.io/badge/Focus-Agentic%20AI%20%26%20LLMs-00d4ff?style=for-the-badge&labelColor=0d0221" />
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-7b2fff?style=for-the-badge&labelColor=0d0221" />
+  <img src="https://img.shields.io/badge/Frameworks-15%2B-00ff88?style=for-the-badge&labelColor=0d0221" />
+  <img src="https://img.shields.io/badge/Cloud%20Platforms-AWS%20%7C%20GCP%20%7C%20Azure-FF9900?style=for-the-badge&labelColor=0d0221" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Primary%20Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d0221" />
+  <img src="https://img.shields.io/badge/Specialty-Multi--Agent%20Systems-D97757?style=for-the-badge&labelColor=0d0221" />
+  <img src="https://img.shields.io/badge/Deployments-Multi--Cloud-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0d0221" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PrathikRavichandran&theme=darkhub&no-frame=true&row=1&column=7&margin-w=10" />
+  <img src="https://img.shields.io/badge/🤖%20Built%20Multi--Agent%20Systems-Production%20Grade-00d4ff?style=for-the-badge&labelColor=0d0221" />
+  <img src="https://img.shields.io/badge/🧠%20RAG%20Pipelines-End%20to%20End-7b2fff?style=for-the-badge&labelColor=0d0221" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/☁️%20Multi--Cloud%20Deployments-AWS%20%7C%20GCP%20%7C%20Azure-FF9900?style=for-the-badge&labelColor=0d0221" />
+  <img src="https://img.shields.io/badge/🛡️%20AI%20Safety%20%26%20Guardrails-Implemented-00ff88?style=for-the-badge&labelColor=0d0221" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🔗%20MCP%20%26%20A2A%20Protocols-Expert-D97757?style=for-the-badge&labelColor=0d0221" />
+  <img src="https://img.shields.io/badge/⚡%20LangGraph%20%7C%20CrewAI%20%7C%20AutoGen-Power%20User-FF6B35?style=for-the-badge&labelColor=0d0221" />
 </p>
 
 ---
